@@ -1,0 +1,8 @@
+#### GET request with a header
+#GET http://127.0.0.1:8000/binary/80
+#Accept: application/json
+
+
+### Send POST request with json body
+POST http://127.0.0.1:8000/binary/5
+Content-Type: application/json
